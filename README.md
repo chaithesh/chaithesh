@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7928ca,100:ff0080&height=220&text=CHAITHESH&fontSize=64&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=code%20%2F%2F%20create%20%2F%2F%20repeat&descSize=18&descAlignY=68" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,100:ff0080&height=140&section=header" width="100%" alt="banner" />
+
+<h1 align="center">CHAITHESH</h1>
+
+<p align="center"><b>code // create // repeat</b></p>
 
 <br/>
 
