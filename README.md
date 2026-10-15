@@ -6,7 +6,7 @@
 
 ![Followers](https://img.shields.io/github/followers/Chaithesh25?style=for-the-badge&color=7928ca&labelColor=2d333b&logo=github)
 ![Repos](https://img.shields.io/badge/REPOS-11-ff0080?style=for-the-badge&labelColor=2d333b)
-![Views](https://komarev.com/ghpvc/?username=Chaithesh25&style=for-the-badge&color=7928ca&labelColor=2d333b)
+![Views](https://hits.sh/github.com/Chaithesh25.svg?style=for-the-badge&label=VIEWS&color=7928ca&labelColor=2d333b)
 
 </div>
 
