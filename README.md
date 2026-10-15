@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,100:ff0080&height=140&section=header" width="100%" alt="banner" />
-
-<h1 align="center">CHAITHESH</h1>
-
-<p align="center"><b>code // create // repeat</b></p>
+<img src="banner.svg" width="100%" alt="CHAITHESH - code // create // repeat" />
 
 <br/>
 
